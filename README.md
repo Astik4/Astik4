@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Astik 👋
 
-<!--
-**Astik4/Astik4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student with a strong interest in cybersecurity, networking, and backend technologies. I enjoy learning how systems work behind the scenes, exploring security concepts, and building practical tools that help me understand real-world technology better.
 
-Here are some ideas to get you started:
+Most of my time currently goes into learning ethical hacking, experimenting with Python scripts, and improving my understanding of networking and cybersecurity fundamentals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+
+* 🔐 Ethical Hacking & Cybersecurity
+* 🐍 Python scripting and automation
+* 🌐 Networking concepts and protocols
+* 🗄️ DBMS and SQL
+* 🔒 Cryptography basics
+* 🐧 Linux environment and command line
+
+
+## 🛠️ Tech Stack
+
+* Python
+* MySQL
+* Kali Linux 
+* Git
+* GitHub
+
+## 📌 Projects
+
+* Community Blood Donor Finder System
+* End-to-End SOC Simulation Platform
+
+## 📚 Currently Learning
+
+* Penetration Testing
+* Web Security
+* Advanced Networking
+* Security concepts and real-world attack techniques
+
+## ⚡ Interests
+
+Cybersecurity • Networking • Automation • Problem Solving • Learning New Technologies 
+
