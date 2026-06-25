@@ -40,3 +40,12 @@ Cybersecurity • Networking • Automation • Problem Solving • Learning New
 ---
 
 📫 Find me on [LinkedIn](https://www.linkedin.com/in/astik04/)
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Astik4&show_icons=true&theme=tokyonight&count_private=true" alt="Astik's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astik4&layout=compact&theme=tokyonight" alt="Astik's Top Languages" width="48%" />
+</p>
