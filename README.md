@@ -1,12 +1,12 @@
 # Hi, I'm Astik 👋
 
-I'm a Computer Science student specializing in Cybersecurity, with a focus on networking and backend technologies. Currently active in the cybersecurity field, I enjoy building practical security tools, analyzing system diagnostics, and exploring defensive technologies.
+I'm a Computer Science student specializing in Cybersecurity, with a focus on Ethical hacking, networking and backend technologies. Currently active in the cybersecurity field, I enjoy building practical security tools, analyzing system diagnostics, and exploring defensive technologies.
 
 Most of my work currently revolves around penetration testing, security automation scripts, and strengthening network defense mechanisms.
 
 ## 🚀 Current Focus
 
-* 🔐 Ethical Hacking & Cybersecurity
+* 🔐 Ethical Hacking & Advanced pentesting
 * 🐍 Python scripting and automation
 * 🌐 Networking concepts and protocols
 * 🗄️ DBMS and SQL
